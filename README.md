@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
