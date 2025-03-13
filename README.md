@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
