@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/syedaaqib25/LeetCodePractice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
